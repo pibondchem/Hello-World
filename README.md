@@ -6,7 +6,7 @@ I was responsible for Analytical chemistry/Instrumental analysis, Inorganic chem
 chemistry sequence.  In addition, I maintained our instruments and helped manage the stockroom and chemical
 inventory.
 
-For sevral years, I also taught the first year of physics (both the algebra based and calculus based courses) 
+For several years, I also taught the first year of physics (both the algebra based and calculus based courses) 
 and began to develop micro-controller based labs.  From this experience, I decided it was time to learn
 some coding & have started with Python 3.8.
 
